@@ -15,13 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BURBUJA ORDANAMIENTO ARRAY.cpp">
+    <ClCompile Include="SUMAR ELEMENTOS DE DOS ARRAYS.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="Burbujita.jpg">
-      <Filter>Archivos de origen</Filter>
-    </Image>
   </ItemGroup>
 </Project>

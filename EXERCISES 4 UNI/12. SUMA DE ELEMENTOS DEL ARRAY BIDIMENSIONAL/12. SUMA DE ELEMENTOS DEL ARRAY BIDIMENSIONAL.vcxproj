@@ -20,10 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
-    <ProjectGuid>{AD7BD1AE-F6EE-DE83-D354-811B69C120EE}</ProjectGuid>
+    <ProjectGuid>{11B25E59-70B9-6B48-0517-062FCA9302EE}</ProjectGuid>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <Keyword>ManagedCProj</Keyword>
-    <RootNamespace>My08ORDENAMIENTOBURBUJA</RootNamespace>
+    <RootNamespace>My12SUMADEELEMENTOSDELARRAYBIDIMENSIONAL</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -111,10 +111,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BURBUJA ORDANAMIENTO ARRAY.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="Burbujita.jpg" />
+    <ClCompile Include="SUMA MATRIZA.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
